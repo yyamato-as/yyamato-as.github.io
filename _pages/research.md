@@ -44,4 +44,4 @@ We have extended this study to another bright protostellar source, IRAS 16293-24
 
 {: align="center"}
 <img src="https://yyamato-as.github.io/images/IRAS16293A_NH3_mom0_gallery_v4.png" width="90%"><br />
-<span style="font-size: small;">NH<sub>3<>/sub Line Emission in IRAS 16293-2422 A as observed with VLA</span>
+<span style="font-size: small;">NH<sub>3</sub> Line Emission in IRAS 16293-2422 A as observed with VLA</span>
