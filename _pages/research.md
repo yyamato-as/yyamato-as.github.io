@@ -12,70 +12,80 @@ Molecular line observations have revealed the wealth of chemistry in the cold di
 </p>
 
 <p style="margin-top: 0;">
-<strong>Paper:</strong>
+<strong>
+Paper:
 <a href="https://ui.adsabs.harvard.edu/abs/2024AJ....167...66Y/abstract">Yamato et al. 2024a, AJ, 167, 66</a>.
 This paper was highlighted in
 <a href="https://science.nrao.edu/enews/17.3/index.shtml#ngvla_science">NRAO eNews</a>
 in connection with the ngVLA.
+</strong>
 </p>
 
-<figure style="margin: 1.5rem auto 2rem; text-align: center;">
+<div style="width: 100%; margin: 1.5rem auto 2rem; text-align: center !important;">
   <img
     src="{{ '/images/V883_Ori_mom0_gallery.png' | relative_url }}"
     alt="Distribution of complex organic molecule emission in the V883 Ori disk"
     loading="lazy"
     style="display: block; width: 90%; max-width: 100%; height: auto; margin: 0 auto;"
   >
-  <figcaption
+  <div
     style="
+      display: block;
+      width: 100%;
       margin-top: 0.35rem;
+      padding: 0;
+      text-align: center !important;
       font-size: small;
       font-family: inherit;
       font-weight: normal;
       font-style: normal;
       line-height: inherit;
-      text-align: center;
     "
   >
     Distribution of the COM Emission in the V883 Ori disk as observed with ALMA
     (<a href="https://ui.adsabs.harvard.edu/abs/2024AJ....167...66Y/abstract"
         style="text-decoration: none;">Yamato et al. 2024a</a>)
-  </figcaption>
-</figure>
+  </div>
+</div>
 
 <p style="text-align: justify; margin-bottom: 0;">
 We also successfully detected the COM dimethyl ether (CH<sub>3</sub>OCH<sub>3</sub>) in a “normal” disk that is not undergoing an accretion burst but surrounds a relatively massive star—a Herbig Ae star with a mass of a few M<sub>⊙</sub>. The abundance of CH<sub>3</sub>OCH<sub>3</sub> relative to CH<sub>3</sub>OH is significantly higher than the protostellar values, again indicating additional formation of COMs during the disk phase.
 </p>
 
 <p style="margin-top: 0;">
-<strong>Paper:</strong>
+<strong>
+Paper:
 <a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...974...83Y/abstract">Yamato et al. 2024b, ApJ, 974, 83</a>
+</strong>
 </p>
 
 <!--
-<figure style="margin: 1.5rem auto 2rem; text-align: center;">
+<div style="width: 100%; margin: 1.5rem auto 2rem; text-align: center !important;">
   <img
     src="{{ '/images/MWC_480_COMs_mom0.png' | relative_url }}"
     alt="Dimethyl ether and methyl formate emission in the MWC 480 disk"
     loading="lazy"
     style="display: block; width: 70%; max-width: 100%; height: auto; margin: 0 auto;"
   >
-  <figcaption
+  <div
     style="
+      display: block;
+      width: 100%;
       margin-top: 0.35rem;
+      padding: 0;
+      text-align: center !important;
       font-size: small;
       font-family: inherit;
       font-weight: normal;
       font-style: normal;
       line-height: inherit;
-      text-align: center;
     "
   >
     CH<sub>3</sub>OCH<sub>3</sub> (and CH<sub>3</sub>OCHO) emission in the disk around the Herbig Ae star MWC 480
     (<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...974...83Y/abstract"
         style="text-decoration: none;">Yamato et al. 2024b</a>)
-  </figcaption>
-</figure>
+  </div>
+</div>
 -->
 
 <p style="text-align: justify; margin-bottom: 0;">
@@ -85,8 +95,10 @@ Sulfur-bearing icy molecules are also present in the gas phase in the innermost 
 </p>
 
 <p style="margin-top: 0;">
-<strong>Paper:</strong>
+<strong>
+Paper:
 <a href="https://ui.adsabs.harvard.edu/abs/2026ApJ...1003...64Y/abstract">Yamato et al. 2026, ApJ, 1003, 64</a>
+</strong>
 </p>
 
 
@@ -97,34 +109,39 @@ Nitrogen is one of the essential elements for the emergence of life on planets, 
 </p>
 
 <p style="margin-top: 0;">
-<strong>Paper:</strong>
+<strong>
+Paper:
 <a href="https://ui.adsabs.harvard.edu/abs/2022ApJ...941...75Y/abstract">Yamato et al. 2022, ApJ, 941, 75</a>
+</strong>
 </p>
 
 <!--
-<figure style="margin: 1.5rem auto 2rem; text-align: center;">
+<div style="width: 100%; margin: 1.5rem auto 2rem; text-align: center !important;">
   <img
     src="{{ '/images/IRAS4A_mom0_gallery.png' | relative_url }}"
     alt="Ammonia and deuterated ammonia emission in NGC 1333 IRAS4A"
     loading="lazy"
     style="display: block; width: 70%; max-width: 100%; height: auto; margin: 0 auto;"
   >
-  <figcaption
+  <div
     style="
+      display: block;
+      width: 100%;
       margin-top: 0.35rem;
+      padding: 0;
+      text-align: center !important;
       font-size: small;
       font-family: inherit;
       font-weight: normal;
       font-style: normal;
       line-height: inherit;
-      text-align: center;
     "
   >
     NH<sub>3</sub> and NH<sub>2</sub>D emission in the protobinary system NGC 1333 IRAS4A
     (<a href="https://ui.adsabs.harvard.edu/abs/2022ApJ...941...75Y/abstract"
         style="text-decoration: none;">Yamato et al. 2022</a>)
-  </figcaption>
-</figure>
+  </div>
+</div>
 -->
 
 <p style="text-align: justify; margin-bottom: 0;">
@@ -132,28 +149,33 @@ We extended this study to another bright protostellar source, IRAS 16293-2422, w
 </p>
 
 <p style="margin-top: 0;">
-<strong>Paper:</strong>
+<strong>
+Paper:
 <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260600212Y/abstract">Yamato et al. 2026, ApJ, 1005, 193</a>
+</strong>
 </p>
 
-<figure style="margin: 1.5rem auto 2rem; text-align: center;">
+<div style="width: 100%; margin: 1.5rem auto 2rem; text-align: center !important;">
   <img
     src="{{ '/images/IRAS16293A_NH3_mom0_gallery_v4.png' | relative_url }}"
     alt="Ammonia line emission in IRAS 16293-2422 A observed with the VLA"
     loading="lazy"
     style="display: block; width: 80%; max-width: 100%; height: auto; margin: 0 auto;"
   >
-  <figcaption
+  <div
     style="
+      display: block;
+      width: 100%;
       margin-top: 0.35rem;
+      padding: 0;
+      text-align: center !important;
       font-size: small;
       font-family: inherit;
       font-weight: normal;
       font-style: normal;
       line-height: inherit;
-      text-align: center;
     "
   >
     NH<sub>3</sub> Line Emission in IRAS 16293-2422 A as observed with VLA
-  </figcaption>
-</figure>
+  </div>
+</div>
