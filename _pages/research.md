@@ -7,7 +7,9 @@ author_profile: true
 
 ## Chemistry of Sublimated Ice in Protoplanetary Disks
 <div style="text-align: justify">Molecular line observations have revealed the wealth of chemistry in the cold disk gas, while the ice chemistry remains elusive. To study the chemical composition and evolution of ice in disks, we focused on the disk around stars undergoing temporal accretion bursts, where the ices have sublimated off the dust grains due to the elevated temperature. With ALMA Band 3 observations, we detected various complex organic molecules (COMs) in the disk around the Class I outbursting protostar V883 Ori. We discovered that the abundance ratio of COMs to methanol (CH<sub>3</sub>OH) is higher than in the protostellar stage and that COMs are enriched in <sup>13</sup>C (<sup>12</sup>C/<sup>13</sup>C ∼ 23) compared to the canonical ratio in the local interstellar medium (∼ 69). This study demonstrates that chemical evolution in disks may play a pivotal role in determining the composition of gas and ice available for forming planets. 
+
 Paper: <a href="https://ui.adsabs.harvard.edu/abs/2024AJ....167...66Y/abstract">Yamato et al. 2024a, AJ, 167, 66</a>.  
+
 <a href="https://science.nrao.edu/enews/17.3/index.shtml#ngvla_science">Highlighted in the NRAO eNews with the ties to ngVLA.</a> </div>
 
 {: align="center"}
