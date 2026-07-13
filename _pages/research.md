@@ -40,6 +40,7 @@ author_profile: true
 <span style="font-size: small;">NH<sub>3</sub> and NH<sub>2</sub>D emission in the protobinary system NGC1333 IRAS4A (<a href="https://ui.adsabs.harvard.edu/abs/2022ApJ...941...75Y/abstract" style="text-decoration: none">Yamato et al. 2022</a>)</span> -->
 
 We have extended this study to another bright protostellar source, IRAS 16293-2422, where we observed a more comprehensive number (17) of NH<sub>3</sub> transitions at a higher spatial resolution. This allows us to better constrain the physicochemical origins of the NH<sub>3</sub> emission. In one of the binary components, IRAS 162932-2422 A, we discover warm (~110 K) and hot (~300 K) NH<sub>3</sub> gases, the latter of which show a remarkable correspondence to the compact shock-heated region as revealed by high-resolution ALMA observations. The column density of this NH<sub>3</sub> component is remarkably high, which might be related to the sublimation of (semi-)refractory nitrogen content, such as ammonium salts and carbonaceous grains. This study is critical in furture investigation of these non-volatile species, which might be key in unveiling the origin of nitrogen in our solar system.
+
 **Paper: <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260600212Y/abstract">Yamato et al. 2026, ApJ, 1005, 193</a>**
 
 {: align="center"}
