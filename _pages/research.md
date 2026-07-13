@@ -14,7 +14,7 @@ author_profile: true
 <img src="https://yyamato-as.github.io/images/V883_Ori_mom0_gallery.png" width="90%"><br />
 <span style="font-size: small;">Distribution of the COM Emission in the V883 Ori disk as observed with ALMA (<a href="https://ui.adsabs.harvard.edu/abs/2024AJ....167...66Y/abstract" style="text-decoration: none">Yamato et al. 2024a</a>)</span>
 
-<div style="text-align: justify">We also successfully detected a COM, dimethyl ether (CH<sub>3</sub>OCH<sub>3</sub>) in a "normal" disk not undergoing accretion bursts but around slightly massive stars (a few $M_\odot$; Herbig Ae/Be stars). The abundance of CH<sub>3</sub>OCH<sub>3</sub> relative to CH<sub>3</sub> is significantly higher than the protostellar values, again indicating the additional formation of COMs during disk phase. 
+<div style="text-align: justify">We also successfully detected a COM, dimethyl ether (CH<sub>3</sub>OCH<sub>3</sub>) in a "normal" disk not undergoing accretion bursts but around slightly massive stars (a few $M_\odot$; Herbig Ae/Be stars). The abundance of CH<sub>3</sub>OCH<sub>3</sub> relative to CH<sub>3</sub> is significantly higher than the protostellar values, again indicating the additional formation of COMs during disk phase.</br> 
 <!-- However, there are significant scatter in the observationally constrained abundance of COMs among several disks. We will observe more disks to obtain statistics and uncover underlying formation and destruction pathways.</div> -->
   
 <b>Paper: <a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...974...83Y/abstract">Yamato et al. 2024b, ApJ, 974, 83</a></b>
